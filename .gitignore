@@ -1,0 +1,6 @@
+build/
+install/
+log/
+out/
+*.zip
+.DS_Store
