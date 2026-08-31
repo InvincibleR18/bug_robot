@@ -10,6 +10,8 @@ answer *"what if there is no map?"*, where a planner like Nav2 requires one buil
 
 ROS 2 Humble · C++ · Gazebo · package name `tangent_bug`.
 
+**[Demo video](https://drive.google.com/file/d/1hjHYIYYQrsVWxmVFnQLsd6ywi2Kyorh-/view)** — the node running in simulation.
+
 ## Interface
 
 | Direction | Topic | Type |
